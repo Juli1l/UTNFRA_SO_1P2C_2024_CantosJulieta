@@ -1,0 +1,259 @@
+    1  tree
+    2  sudo apt install tree
+    3  sudo apt install git
+    4  sudo apt install vim
+    5  vim
+    6  sudo apt install vim
+    7  git clone  https://github.com/upszot/UTN-FRA_SO_Examenes.git
+    8  git clone git@github.com:Juli1l/UTNFRA_SO_1P2C_2024_CantosJulieta.git
+    9  ls -l
+   10  tree
+   11  git clone git@github.com:Juli1l/UTNFRA_SO_1P2C_2024_CantosJulieta.git
+   12  ls -al ~/.ssh
+   13  ssh-keygen -t ed25519 -C "cantosjulieta96@gmail.comm"
+   14  eval "$(ssh-agent -s)"
+   15  ssh-add ~/.ssh/id_ed25519
+   16  cat ~/.ssh/id_ed25519.pub
+   17  ssh -T git@github.com
+   18  git clone git@github.com:Juli1l/UTNFRA_SO_1P2C_2024_CantosJulieta.git
+   19  tree
+   20  ls -l
+   21  mkdir repogit
+   22  ls -l
+   23  cd repogit
+   24  mv UTN-FRA_SO_Examenes repogit/
+   25  mv UTNFRA_SO_1P2C_2024_CantosJulieta repogit/
+   26  mv UTN-FRA_SO_Examenes
+   27  cd ~
+   28  mv UTN-FRA_SO_Examenes repogit/
+   29  mv UTNFRA_SO_1P2C_2024_CantosJulieta repogit/
+   30  ls -l
+   31  cd repogit
+   32  ls -l
+   33  cd
+   34  home /repogit
+   35  $Home /repogit
+   36  cd repogit
+   37  ls -l
+   38  ./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+   39  source  ~/.bashrc  && history -a 
+   40  ls -l
+   41  cd UTNFRA_SO_1P2C_2024_CantosJulieta
+   42  ls -l
+   43  tree
+   44  rm -r RTA_SCRIPT_Examen_20241007
+   45  tree
+   46  cat Punto_A.sh
+   47  cd RTA_SCRIPT_Examen_20241004
+   48  tree
+   49  cat Punto_A.sh
+   50  ls -l Punto_A.sh
+   51  ./Punto_A.sh
+   52  bash Punto_A.sh
+   53  vim Punto_A.sh
+   54  sudo apt install vim 
+   55  vim Punto_A.sh
+   56  bash Punto_A.sh
+   57  vim Punto_A.sh
+   58  tree
+   59  bash Punto_A.sh
+   60  cd repogit
+   61  cd
+   62  repogit
+   63  ~/repogit
+   64  cd repogit
+   65  tree
+   66  cd UTNFRA_SO_1P2C_2024_CantosJulieta
+   67  ls
+   68  ./Punto_A.sh
+   69  cd RTA_SCRIPT_Examen_20241004
+   70  ./Punto_A.sh
+   71  tree
+   72  cat
+   73  ls -l
+   74  vim Punto_A.sh
+   75  chmod +x Punto_A.sh
+   76  sudo ./Punto_A.sh
+   77  ls -l /Examenes-UTN/
+   78  vim alumno_1
+   79  tree
+   80  rm alumno_1
+   81  tree
+   82  sudo ./Punto_A.sh
+   83  vim Punto_A.sh
+   84  ls -l /Examenes-UTN/
+   85  ls -l /
+   86  tree /Examenes-UTN/
+   87  tree
+   88  vim Punto_B.sh
+   89  ./Punto_B.sh
+   90  tree
+   91  tree Punto_A.sh
+   92  tree ~/Examenes-UTN/
+   93  lsblk
+   94  pwd
+   95  tree
+   96  vim Punto_B.sh
+   97  ./Punto_B.sh
+   98  vim_Punto_B.sh
+   99  tree
+  100  vim Punto_b.SH
+  101  nano Punto_B.sh
+  102  vim Punto_B.sh
+  103  ls /home/osboxes/repogit/UTNFRA_SO_1P2C_2024_CantosJulieta/RTA_SCRIPT_Examen_20241004/alumno_1/parcial_1
+  104  cd
+  105  ls /home/osboxes/repogit/UTNFRA_SO_1P2C_2024_CantosJulieta/RTA_SCRIPT_Examen_20241004/alumno_1/parcial_1
+  106  sudo ls /home/osboxes/repogit/UTNFRA_SO_1P2C_2024_CantosJulieta/RTA_SCRIPT_Examen_20241004/alumno_1/parcial_1
+  107  ls /Examenes-UTN/profesores
+  108  tree
+  109  cd
+  110  ls -l
+  111  repogit
+  112  cd repogit
+  113  ls -l
+  114  cd UTNFRA_SO_1P2C_2024_CantosJulieta
+  115  cd /home/osboxes/repogit/UTNFRA_SO_1P2C_2024_CantosJulieta/RTA_SCRIPT_Examen_20241004/alumno_1/
+  116  cd
+  117  cd /home/osboxes/repogit/UTNFRA_SO_1P2C_2024_CantosJulieta/RTA_SCRIPT_Examen_20241004/alumno_1/
+  118  cd /home/osboxes/repogit/UTNFRA_SO_1P2C_2024_CantosJulieta/RTA_SCRIPT_Examen_20241004
+  119  ls ~/repogit/UTNFRA_SO_1P2C_2024_CantosJulieta/RTA_SCRIPT_Examen_20241004/alumno_1/
+  120  tree
+  121  ./Punto_B.sh
+  122  df -h
+  123  tree
+  124  vim Punto_B.sh
+  125  cat Punto_C.sh
+  126  tree
+  127  chmod +x Punto_C.sh
+  128  TREE
+  129  tree
+  130  vim Punto_C.sh
+  131  chmod +x Punto_D.sh
+  132  CANTOSJULIETA96GMAIL.COM
+  133  tree
+  134  vim Punto_C.sh
+  135  vim Punto_D.sh
+  136  vim Punto_C.sh
+  137  vim Punto_D.SH
+  138  vim Punto_D.sh
+  139  vim Punto_C.sh
+  140  tree
+  141  cd repogit
+  142  cd
+  143  repogit
+  144  cd repogit
+  145  ls -l
+  146  cd UTNFRA_SO_1P2C_2024_CantosJulieta
+  147  tree
+  148  cd RTA_ARCHIVOS_Examen_20241007 
+  149  tree
+  150  cd
+  151  ssh-keygen -t ed25519 -C "cantosjulieta96@gmail.com"
+  152  cd repogit
+  153  tree
+  154  cd UTNFRA_SO_1P2C_2024_CantosJulieta
+  155  tree
+  156  RTA_SCRIPT_Examen_20241004
+  157  cd RTA_SCRIPT_Examen_20241004
+  158  tree
+  159  punto_c.sh
+  160  vim Punto_C.sh
+  161  chmod +x Punto_E.sh
+  162  tree
+  163  cd
+  164  cd repogit
+  165  cd UTNFRA_SO_1P2C_2024_CantosJulieta
+  166  ls -l
+  167  tree
+  168  cd RTA_ARCHIVOS_Examen_20241007
+  169  free -h
+  170  cat /proc/meminfo
+  171  tree
+  172  cd
+  173  cd repogit
+  174  ls -l
+  175  cd UTNFRA_SO_1P2C_2024_CantosJulieta
+  176  ls -l
+  177  tree
+  178  vim Punto_E.sh
+  179  chmod +x Punto_F.sh
+  180  tree
+  181  cd RTA_SCRIPT_Examen_20241004
+  182  tree
+  183  chmod +x Punto_F.sh
+  184  vim_Punto_F.sh
+  185  vim Punto_F.sh
+  186  tree
+  187  sudo ./Punto_E.sh
+  188  tree
+  189  cd
+  190  cd repogit
+  191  ls -l
+  192  cd UTNFRA_SO_1P2C_2024_CantosJulieta
+  193  tree
+  194  sudo ./Punto_F
+  195  sudo ./Punto_F.sh
+  196  cd RTA_ARCHIVOS_Examen_20241007
+  197  tree
+  198  ls
+  199  ls -l
+  200  cd ..
+  201  tree
+  202  cd RTA_SCRIPT_Examen_20241004
+  203  vim Punto_E.sh
+  204  ./Punto_E.sh
+  205  sudo ./Punto_E.sh
+  206  tree
+  207  nano Punto_E.sh
+  208  sudo ./Punto_E.sh
+  209  tree
+  210  sudo ./Punto_E.sh
+  211  ..
+  212  cd ..
+  213  tree
+  214  cd RTA_ARCHIVOS_Examen_20241007
+  215  tree
+  216  cd
+  217  cd ~/repogit/UTNFRA_SO_1P2C_2024_CantosJulieta
+  218  tree
+  219  cd RTA_SCRIPT_Examen_20241004
+  220  tree
+  221  sudo ./Punto_F.sh
+  222  vim Punto_F.sh
+  223  sudo ./Punto_F.sh
+  224  cd
+  225  history -a
+  226  cd repogit
+  227  ls -l
+  228  cd UTNFRA_SO_1P2C_2024_CantosJulieta
+  229  ls -l
+  230  nano README.md
+  231  history
+  232  history > historial.txt 
+  233  tree
+  234  vim Punto_E.sh
+  235  rm Punto_E.sh
+  236  tree
+  237  cd historial.txt
+  238  ls
+  239  history > ~/UTNFRA_SO_1P2C_2024_CantosJulieta/historial.txt
+  240  rm historial.txt
+  241  history > ~/UTNFRA_SO_1P2C_2024_CantosJulieta/Historial
+  242  cd ..
+  243  history > ~/UTNFRA_SO_1P2C_2024_CantosJulieta/Historial
+  244  history > historial.txt
+  245  mv historial.txt /UTNFRA_SO_1P2C_2024_CantosJulieta
+  246  tree
+  247  ls
+  248  cd UTNFRA_SO_1P2C_2024_CantosJulieta
+  249  ls -l
+  250  tree
+  251  cd
+  252  history > historial.txt
+  253  mv historial.txt /repogit/UTNFRA_SO_1P2C_2024_CantosJulieta
+  254  mv historial.txt /repogit
+  255  cd repogit
+  256  ls -l
+  257  cd UTNFRA_SO_1P2C_2024_CantosJulieta
+  258  ls
+  259  history > historial.txt
